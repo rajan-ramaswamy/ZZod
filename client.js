@@ -15,5 +15,6 @@ conn.on('testPlan', function(testPlan) {
 });
 
 //Testing the Git tools
-//Change made on branch "testing"
+//Now running inside zed editor to try this
+
 
