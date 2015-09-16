@@ -17,6 +17,6 @@ conn.on('testPlan', function(testPlan) {
 //Testing the Git tools
 //Now running inside zed editor to try this
 //Zed didn't work so trying this.
-// this is a test comment added by Pablo
+// this is a test comment added by Pablo on local comp
 
 
